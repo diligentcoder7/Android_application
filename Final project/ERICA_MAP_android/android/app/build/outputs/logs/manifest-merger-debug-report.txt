@@ -1,0 +1,125 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\dlcks\OneDrive - 한양대학교\바탕 화면\모바일 앱개발\기말 프로젝트\ERICA_MAP\ERICA_MAP_android\android\app\src\main\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\dlcks\OneDrive - 한양대학교\바탕 화면\모바일 앱개발\기말 프로젝트\ERICA_MAP\ERICA_MAP_android\android\app\src\main\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\dlcks\OneDrive - 한양대학교\바탕 화면\모바일 앱개발\기말 프로젝트\ERICA_MAP\ERICA_MAP_android\android\app\src\main\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\dlcks\OneDrive - 한양대학교\바탕 화면\모바일 앱개발\기말 프로젝트\ERICA_MAP\ERICA_MAP_android\android\app\src\main\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\dlcks\.gradle\caches\transforms-3\149ffb6d23e24979ad905785359e5fb2\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\dlcks\.gradle\caches\transforms-3\4645bebc8b7fa42851c558dfa7d45331\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\dlcks\.gradle\caches\transforms-3\822daf2948d5257634ee37c56e41d06f\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\dlcks\.gradle\caches\transforms-3\e2a564e48f1bc3b1a35d934d97a00d47\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dlcks\.gradle\caches\transforms-3\0c6afb216f06ab845836eb39e61bf1d8\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dlcks\.gradle\caches\transforms-3\f51f19539e614611c129a313f4199385\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\dlcks\.gradle\caches\transforms-3\1b96ed1232bbd92b36e937902a07caf5\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\dlcks\.gradle\caches\transforms-3\56e0337bf4d2ea4173d6aeb471be0e0f\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\dlcks\.gradle\caches\transforms-3\68281eb322c1facf795bb29f35d221f2\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\dlcks\.gradle\caches\transforms-3\d9b88cef73cb6e12bcab00af302b5d66\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.0] C:\Users\dlcks\.gradle\caches\transforms-3\8d80be0159255f9250d2766e6d9f9da2\transformed\core-1.3.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\dlcks\.gradle\caches\transforms-3\9e447a97f0b45cbd134e560cfe025df7\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\dlcks\.gradle\caches\transforms-3\5678d758597e1680f337ae4fd689980a\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\dlcks\.gradle\caches\transforms-3\3724057e7d7f2c533547d89aab738fe3\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\dlcks\.gradle\caches\transforms-3\7d384c3f4516cc181efeb78bc7abdb76\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\dlcks\.gradle\caches\transforms-3\4baf83eac8d27432b2019e4a27f747aa\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\dlcks\.gradle\caches\transforms-3\0aaf1e4a7bc0675d8ce5221b4008b851\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\dlcks\.gradle\caches\transforms-3\b24e88b55a759b032d7c081ad33d28fb\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\dlcks\.gradle\caches\transforms-3\6dd0e1305a92c2593c13e3ebeb576e91\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\dlcks\.gradle\caches\transforms-3\074b9568144094437c9c8dad89d55f6c\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\dlcks\OneDrive - 한양대학교\바탕 화면\모바일 앱개발\기말 프로젝트\ERICA_MAP\ERICA_MAP_android\android\app\src\main\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\dlcks\OneDrive - 한양대학교\바탕 화면\모바일 앱개발\기말 프로젝트\ERICA_MAP\ERICA_MAP_android\android\app\src\main\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\dlcks\OneDrive - 한양대학교\바탕 화면\모바일 앱개발\기말 프로젝트\ERICA_MAP\ERICA_MAP_android\android\app\src\main\AndroidManifest.xml:2:1-11:12
+	package
+		ADDED from C:\Users\dlcks\OneDrive - 한양대학교\바탕 화면\모바일 앱개발\기말 프로젝트\ERICA_MAP\ERICA_MAP_android\android\app\src\main\AndroidManifest.xml:2:120-163
+		INJECTED from C:\Users\dlcks\OneDrive - 한양대학교\바탕 화면\모바일 앱개발\기말 프로젝트\ERICA_MAP\ERICA_MAP_android\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dlcks\OneDrive - 한양대학교\바탕 화면\모바일 앱개발\기말 프로젝트\ERICA_MAP\ERICA_MAP_android\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\dlcks\OneDrive - 한양대학교\바탕 화면\모바일 앱개발\기말 프로젝트\ERICA_MAP\ERICA_MAP_android\android\app\src\main\AndroidManifest.xml:2:94-119
+		INJECTED from C:\Users\dlcks\OneDrive - 한양대학교\바탕 화면\모바일 앱개발\기말 프로젝트\ERICA_MAP\ERICA_MAP_android\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dlcks\OneDrive - 한양대학교\바탕 화면\모바일 앱개발\기말 프로젝트\ERICA_MAP\ERICA_MAP_android\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\dlcks\OneDrive - 한양대학교\바탕 화면\모바일 앱개발\기말 프로젝트\ERICA_MAP\ERICA_MAP_android\android\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\dlcks\OneDrive - 한양대학교\바탕 화면\모바일 앱개발\기말 프로젝트\ERICA_MAP\ERICA_MAP_android\android\app\src\main\AndroidManifest.xml:2:70-93
+		INJECTED from C:\Users\dlcks\OneDrive - 한양대학교\바탕 화면\모바일 앱개발\기말 프로젝트\ERICA_MAP\ERICA_MAP_android\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dlcks\OneDrive - 한양대학교\바탕 화면\모바일 앱개발\기말 프로젝트\ERICA_MAP\ERICA_MAP_android\android\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\dlcks\OneDrive - 한양대학교\바탕 화면\모바일 앱개발\기말 프로젝트\ERICA_MAP\ERICA_MAP_android\android\app\src\main\AndroidManifest.xml:3:5-10:19
+MERGED from [androidx.core:core:1.3.0] C:\Users\dlcks\.gradle\caches\transforms-3\8d80be0159255f9250d2766e6d9f9da2\transformed\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] C:\Users\dlcks\.gradle\caches\transforms-3\8d80be0159255f9250d2766e6d9f9da2\transformed\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\dlcks\.gradle\caches\transforms-3\5678d758597e1680f337ae4fd689980a\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\dlcks\.gradle\caches\transforms-3\5678d758597e1680f337ae4fd689980a\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] C:\Users\dlcks\.gradle\caches\transforms-3\8d80be0159255f9250d2766e6d9f9da2\transformed\core-1.3.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\dlcks\OneDrive - 한양대학교\바탕 화면\모바일 앱개발\기말 프로젝트\ERICA_MAP\ERICA_MAP_android\android\app\src\main\AndroidManifest.xml:3:53-86
+	android:icon
+		ADDED from C:\Users\dlcks\OneDrive - 한양대학교\바탕 화면\모바일 앱개발\기말 프로젝트\ERICA_MAP\ERICA_MAP_android\android\app\src\main\AndroidManifest.xml:3:18-52
+activity#processing.test.erica_map_android.MainActivity
+ADDED from C:\Users\dlcks\OneDrive - 한양대학교\바탕 화면\모바일 앱개발\기말 프로젝트\ERICA_MAP\ERICA_MAP_android\android\app\src\main\AndroidManifest.xml:4:9-9:20
+	android:theme
+		ADDED from C:\Users\dlcks\OneDrive - 한양대학교\바탕 화면\모바일 앱개발\기말 프로젝트\ERICA_MAP\ERICA_MAP_android\android\app\src\main\AndroidManifest.xml:4:48-115
+	android:name
+		ADDED from C:\Users\dlcks\OneDrive - 한양대학교\바탕 화면\모바일 앱개발\기말 프로젝트\ERICA_MAP\ERICA_MAP_android\android\app\src\main\AndroidManifest.xml:4:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\dlcks\OneDrive - 한양대학교\바탕 화면\모바일 앱개발\기말 프로젝트\ERICA_MAP\ERICA_MAP_android\android\app\src\main\AndroidManifest.xml:5:13-8:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\dlcks\OneDrive - 한양대학교\바탕 화면\모바일 앱개발\기말 프로젝트\ERICA_MAP\ERICA_MAP_android\android\app\src\main\AndroidManifest.xml:6:17-68
+	android:name
+		ADDED from C:\Users\dlcks\OneDrive - 한양대학교\바탕 화면\모바일 앱개발\기말 프로젝트\ERICA_MAP\ERICA_MAP_android\android\app\src\main\AndroidManifest.xml:6:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\dlcks\OneDrive - 한양대학교\바탕 화면\모바일 앱개발\기말 프로젝트\ERICA_MAP\ERICA_MAP_android\android\app\src\main\AndroidManifest.xml:7:17-76
+	android:name
+		ADDED from C:\Users\dlcks\OneDrive - 한양대학교\바탕 화면\모바일 앱개발\기말 프로젝트\ERICA_MAP\ERICA_MAP_android\android\app\src\main\AndroidManifest.xml:7:27-74
+uses-sdk
+INJECTED from C:\Users\dlcks\OneDrive - 한양대학교\바탕 화면\모바일 앱개발\기말 프로젝트\ERICA_MAP\ERICA_MAP_android\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\dlcks\OneDrive - 한양대학교\바탕 화면\모바일 앱개발\기말 프로젝트\ERICA_MAP\ERICA_MAP_android\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\dlcks\OneDrive - 한양대학교\바탕 화면\모바일 앱개발\기말 프로젝트\ERICA_MAP\ERICA_MAP_android\android\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\dlcks\.gradle\caches\transforms-3\149ffb6d23e24979ad905785359e5fb2\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\dlcks\.gradle\caches\transforms-3\149ffb6d23e24979ad905785359e5fb2\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\dlcks\.gradle\caches\transforms-3\4645bebc8b7fa42851c558dfa7d45331\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\dlcks\.gradle\caches\transforms-3\4645bebc8b7fa42851c558dfa7d45331\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\dlcks\.gradle\caches\transforms-3\822daf2948d5257634ee37c56e41d06f\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\dlcks\.gradle\caches\transforms-3\822daf2948d5257634ee37c56e41d06f\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\dlcks\.gradle\caches\transforms-3\e2a564e48f1bc3b1a35d934d97a00d47\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\dlcks\.gradle\caches\transforms-3\e2a564e48f1bc3b1a35d934d97a00d47\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dlcks\.gradle\caches\transforms-3\0c6afb216f06ab845836eb39e61bf1d8\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dlcks\.gradle\caches\transforms-3\0c6afb216f06ab845836eb39e61bf1d8\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dlcks\.gradle\caches\transforms-3\f51f19539e614611c129a313f4199385\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dlcks\.gradle\caches\transforms-3\f51f19539e614611c129a313f4199385\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\dlcks\.gradle\caches\transforms-3\1b96ed1232bbd92b36e937902a07caf5\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\dlcks\.gradle\caches\transforms-3\1b96ed1232bbd92b36e937902a07caf5\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\dlcks\.gradle\caches\transforms-3\56e0337bf4d2ea4173d6aeb471be0e0f\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\dlcks\.gradle\caches\transforms-3\56e0337bf4d2ea4173d6aeb471be0e0f\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\dlcks\.gradle\caches\transforms-3\68281eb322c1facf795bb29f35d221f2\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\dlcks\.gradle\caches\transforms-3\68281eb322c1facf795bb29f35d221f2\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\dlcks\.gradle\caches\transforms-3\d9b88cef73cb6e12bcab00af302b5d66\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\dlcks\.gradle\caches\transforms-3\d9b88cef73cb6e12bcab00af302b5d66\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.0] C:\Users\dlcks\.gradle\caches\transforms-3\8d80be0159255f9250d2766e6d9f9da2\transformed\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] C:\Users\dlcks\.gradle\caches\transforms-3\8d80be0159255f9250d2766e6d9f9da2\transformed\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\dlcks\.gradle\caches\transforms-3\9e447a97f0b45cbd134e560cfe025df7\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\dlcks\.gradle\caches\transforms-3\9e447a97f0b45cbd134e560cfe025df7\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\dlcks\.gradle\caches\transforms-3\5678d758597e1680f337ae4fd689980a\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\dlcks\.gradle\caches\transforms-3\5678d758597e1680f337ae4fd689980a\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\dlcks\.gradle\caches\transforms-3\3724057e7d7f2c533547d89aab738fe3\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\dlcks\.gradle\caches\transforms-3\3724057e7d7f2c533547d89aab738fe3\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\dlcks\.gradle\caches\transforms-3\7d384c3f4516cc181efeb78bc7abdb76\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\dlcks\.gradle\caches\transforms-3\7d384c3f4516cc181efeb78bc7abdb76\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\dlcks\.gradle\caches\transforms-3\4baf83eac8d27432b2019e4a27f747aa\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\dlcks\.gradle\caches\transforms-3\4baf83eac8d27432b2019e4a27f747aa\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\dlcks\.gradle\caches\transforms-3\0aaf1e4a7bc0675d8ce5221b4008b851\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\dlcks\.gradle\caches\transforms-3\0aaf1e4a7bc0675d8ce5221b4008b851\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\dlcks\.gradle\caches\transforms-3\b24e88b55a759b032d7c081ad33d28fb\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\dlcks\.gradle\caches\transforms-3\b24e88b55a759b032d7c081ad33d28fb\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\dlcks\.gradle\caches\transforms-3\6dd0e1305a92c2593c13e3ebeb576e91\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\dlcks\.gradle\caches\transforms-3\6dd0e1305a92c2593c13e3ebeb576e91\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\dlcks\.gradle\caches\transforms-3\074b9568144094437c9c8dad89d55f6c\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\dlcks\.gradle\caches\transforms-3\074b9568144094437c9c8dad89d55f6c\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\dlcks\OneDrive - 한양대학교\바탕 화면\모바일 앱개발\기말 프로젝트\ERICA_MAP\ERICA_MAP_android\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\dlcks\OneDrive - 한양대학교\바탕 화면\모바일 앱개발\기말 프로젝트\ERICA_MAP\ERICA_MAP_android\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\dlcks\OneDrive - 한양대학교\바탕 화면\모바일 앱개발\기말 프로젝트\ERICA_MAP\ERICA_MAP_android\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dlcks\OneDrive - 한양대학교\바탕 화면\모바일 앱개발\기말 프로젝트\ERICA_MAP\ERICA_MAP_android\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dlcks\OneDrive - 한양대학교\바탕 화면\모바일 앱개발\기말 프로젝트\ERICA_MAP\ERICA_MAP_android\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\dlcks\OneDrive - 한양대학교\바탕 화면\모바일 앱개발\기말 프로젝트\ERICA_MAP\ERICA_MAP_android\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dlcks\OneDrive - 한양대학교\바탕 화면\모바일 앱개발\기말 프로젝트\ERICA_MAP\ERICA_MAP_android\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dlcks\OneDrive - 한양대학교\바탕 화면\모바일 앱개발\기말 프로젝트\ERICA_MAP\ERICA_MAP_android\android\app\src\main\AndroidManifest.xml
